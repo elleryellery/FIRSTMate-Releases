@@ -55,7 +55,7 @@ To monitor students' progress, have them send you their "Saves" folder! Move the
 <!-- Links and Images -->
 [code-url]: https://github.com/elleryellery/FIRSTMate
 [code-shield]: https://img.shields.io/badge/View_Full_Code-→-maroon?style=for-the-badge
-[team-url]: platypirates.org
+[team-url]: https://platypirates.org
 [team-shield]: https://img.shields.io/badge/About_9181_PlatyPirates-→-maroon?style=for-the-badge
 [bug-url]: https://github.com/elleryellery/FIRSTMate/issues/new
 [bug-shield]: https://img.shields.io/badge/Report_A_Bug-→-maroon?style=for-the-badge
